@@ -1,3 +1,5 @@
 "resources/" 
 "venv/" 
 "__pycache__/" 
+"brain_subgraph_v1/graph.json" 
+"resources/connections_princeton.csv" 
